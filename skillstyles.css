@@ -1,0 +1,35 @@
+.skills {
+    text-align: right; /* Right-align text */
+    padding-top: 10px; /* Add top padding */
+    padding-bottom: 10px; /* Add bottom padding */
+     /* White text color */
+  }
+  
+  .html {width: 90%; background-color: gold;} /* Green */
+  .css {width: 80%; background-color: gold;} /* Blue */
+  .js {width: 65%; background-color: gold;} /* Red */
+  .php {width: 60%; background-color: gold;} /* Dark Grey */
+  
+  
+  
+  * {box-sizing:border-box}
+   .container {
+     width: 100%; 
+     background-color: black; 
+   }
+  .skills {
+     text-align: right; 
+     padding-top: 10px; 
+     padding-bottom: 10px; 
+     color: black; 
+   }
+   .html {width: 90%; background-color: yellow;} 
+   .css {width: 80%; background-color: yellow;} 
+   .js {width: 65%; background-color: Yellow;}
+   .java {width: 88%; background-color: Yellow;}
+   .c {width: 89%; background-color: Yellow;}
+   .py {width: 78%; background-color: Yellow;}
+  .section3-div{
+    background-color: #1a1a1a;
+  }
+  
